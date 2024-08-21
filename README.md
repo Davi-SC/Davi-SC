@@ -27,4 +27,4 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Davi-SC&repo=estudos-linguagemC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Davi-SC/estudos-linguagemC.git)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Davi-SC&repo=estudos-linguagemC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Saviohrq/Jogo-da-Velha.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Davi-SC&repo=Jogo-da-Velha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Saviohrq/Jogo-da-Velha.git)

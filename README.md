@@ -15,7 +15,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ### Bibliotecas e Frameworks
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-%23000.svg?logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-%23000.svg?logo=react&logoColor)
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ## Github Stats

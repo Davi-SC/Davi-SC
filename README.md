@@ -15,6 +15,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ### Bibliotecas e Frameworks
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ## Github Stats
@@ -23,7 +24,6 @@
 ## Meus Projetos/Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Davi-SC&repo=DesenvolvimentoWeb&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Davi-SC/DesenvolvimentoWeb.git)
-
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Davi-SC&repo=estudos-linguagemC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Davi-SC/estudos-linguagemC.git)
 

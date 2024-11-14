@@ -32,7 +32,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-SC&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-SC&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&langs_count=12" 
   />
 
 </p>

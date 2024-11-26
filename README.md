@@ -24,7 +24,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    width = "200"
+    width = 50%
     src="https://github-readme-stats.vercel.app/api?username=Davi-SC&show_icons=true&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&include_all_commits=true" 
   />
 

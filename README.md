@@ -24,6 +24,6 @@ Data Scientist
 
 <a href="https://github.com/Davi-SC" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-SC&langs_count=5&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<!-- <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Davi-SC/reconhecimento-facial" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi-SC&repo=reconhecimento-facial&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Davi-SC/SimRec" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi-SC&repo=SimRec&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Davi-SC/reconhecimento-facial" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi-SC&repo=reconhecimento-facial&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Davi-SC/SimRec" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi-SC&repo=SimRec&title_color=10b981&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
